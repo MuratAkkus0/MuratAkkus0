@@ -22,7 +22,7 @@ This is where I share personal projects, experiments, and things I'm learning al
 - Claude, AI automation, LLM integrations
 - Jest, RTL, Playwright
 
---
+---
 
 ### A Bit About Me
 
