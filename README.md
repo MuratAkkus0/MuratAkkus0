@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Murat, a junior full-stack software engineer based in Germany.
+I'm Murat, a full-stack software engineer based in Germany.
 
 I enjoy building real-world applications across the full stack, from frontend interfaces and backend APIs to databases, cloud infrastructure, background processing, and system design.
 
